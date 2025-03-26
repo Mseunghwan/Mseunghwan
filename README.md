@@ -1,1 +1,2 @@
-대구광역시 가격이 다른 약 가격을 비교하기 위해 만든 프로젝트 입니다
+![Mseunghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mseunghwan&show_icons=true&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=minccc427)](https://solved.ac/minccc427)
