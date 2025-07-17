@@ -32,7 +32,6 @@
 ### 🛠️ Tech Stack
 | Date | Content | 비고 |
 | :--- | :--- | :--- |
-
 | 2024. 06 | Toeic speaking IH | |
 | 2021. 05 | Sqld | |
 | 2021. 04 | Adsp | |
