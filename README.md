@@ -12,7 +12,7 @@
 | 2025.03 ~ 2025.06 | 경북대학교 산학협력프로젝트1 with 데이터스트림즈 **'BigPicture'** 서비스 개발 | 논문발표, PlayStore 배포 |
 | 2024.12 ~ 2025.02 | (주)리소프트 현장실습 거래처 관리 백오피스 개발 | |
 | 2024.11 ~ 2025.01 | 모바일 앱 프로그래밍 프로젝트 **'Mindlog'** 서비스 개발 | PlayStore 배포 |
-| 2024.10 ~ 2024.12 | Google GDSC VisionChallengeTon **'NoSmoke'** 서비스 개발 | 우수상, PlayStore 배포 |
+| 2024.10 ~ 2024.12 | Google GDSC Vision Challengeton **'NoSmoke'** 서비스 개발 | 우수상, PlayStore 배포 |
 
 <br>
 
