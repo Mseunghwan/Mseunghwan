@@ -21,8 +21,9 @@
 
 ### 🛠️ Tech Stack
 **Back-End**
-* Java
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 * Spring
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
 * Python
 
 **Front-End (App)**
@@ -39,5 +40,5 @@
 <br>
 
 ### 🧩 PS
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minccc427)](https://solved.ac/minccc427/)
-부족하지만 매일매일 푸는데 열중하겠습니다
