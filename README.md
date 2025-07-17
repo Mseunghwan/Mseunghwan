@@ -33,7 +33,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 <br>
 
-### 🧩 PS
-<br>
 
+### 🧩 PS
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minccc427)](https://solved.ac/minccc427/)
