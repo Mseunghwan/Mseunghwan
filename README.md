@@ -9,10 +9,10 @@
 ### 🏃 Experience
 | Date | Content | 비고 |
 | :--- | :--- | :--- |
-| 2025.07 ~ 현재 | 삼성 SW AI 아카데미 WEB 과정 입과| |
-| 2025.03 ~ 2025.06 | 카카오테크캠퍼스 3기 BE ~ 2차| |
-| 2025.03 ~ 2025.06 | 경북대학교 산학협력프로젝트1 with 데이터스트림즈 | Kotlin JetpackCompose Java Spring |
-| 2024.12 ~ 2025.02 | (주)리소프트 현장실습 거래처 관리 백오피스 개발 | Java Spring |
+| 2025.07 ~ 현재 | 삼성 SW AI 아카데미 WEB 과정 입과| Python Django Java Springboot |
+| 2025.03 ~ 2025.06 | 카카오테크캠퍼스 3기 BE ~ 2차| Java Springboot |
+| 2025.03 ~ 2025.06 | 경북대학교 산학협력프로젝트1 with 데이터스트림즈 | Kotlin JetpackCompose Java Springboot |
+| 2024.12 ~ 2025.02 | (주)리소프트 현장실습 거래처 관리 백오피스 개발 | Java Springboot |
 <br>
 
 ### 📚 Project
