@@ -28,8 +28,8 @@
 ### 🏆 Trophy
 | Date | Content | 비고 |
 | :--- | :--- | :--- |
-| 2024.10 ~ 2024.12 | Google GDSC Vision Challengeton | 우수상 |
-| 2024.10 ~ 2024.12 | 경북대학교 경영학부 창업경진대회 | 대상 |
+| 2024.11 | Google GDSC Vision Challengeton | 우수상 |
+| 2024.09 ~ 2024.11 | 경북대학교 경영학부 창업경진대회 | 대상 |
 <br>
 
 
