@@ -61,5 +61,6 @@
 
 
 ### 🧩 PS
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minccc427)](https://solved.ac/minccc427/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mseunghwan&show_icons=true&theme=dark)
 
