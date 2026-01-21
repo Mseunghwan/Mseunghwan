@@ -18,6 +18,7 @@
 ### 📚 Project
 | Date | Content | 비고 |
 | :--- | :--- | :--- |
+| 2025.09 ~ 2026.1 | Google GDSC Vision Challengeton **'NoSmoke'** 서비스 백엔드 개발 | 성능 최적화(Springboot, JPA) |
 | 2025.03 ~ 2025.06 | 경북대학교 산학협력프로젝트1 with 데이터스트림즈 **'BigPicture'** 서비스 개발 | 논문발표, PlayStore 배포(Kotlin JetpackCompose Java Springboot) |
 | 2024.11 ~ 2025.01 | 모바일 앱 프로그래밍 프로젝트 **'Mindlog'** 서비스 개발 | PlayStore 배포(Kotlin JetpackCompose) |
 | 2024.10 ~ 2024.12 | Google GDSC Vision Challengeton **'NoSmoke'** 서비스 개발 | PlayStore 배포(Flutter Firebase) |
@@ -28,6 +29,8 @@
 ### 🏆 Trophy
 | Date | Content | 비고 |
 | :--- | :--- | :--- |
+| 2025.12 | SSAFY 우수 교육생 | 우수상 |
+| 2025.12 | SSAFY 관통 프로젝트 | 최우수상 |
 | 2024.11 | Google GDSC Vision Challengeton | 우수상 |
 | 2024.09 ~ 2024.11 | 경북대학교 경영학부 창업경진대회 | 대상 |
 <br>
